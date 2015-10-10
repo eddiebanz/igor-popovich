@@ -76,3 +76,7 @@ div { display: inline;}
   display: inline;
   list-style-type: none;
 }
+
+.testimonial-block{
+  display: inline-block;
+}
