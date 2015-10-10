@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+div { display: inline;}
+.logo {
+  display: inline-block;
+  padding-top: 25px;
+  width: 100%;
+  height: 200px;
+}
+.logo-left {
+  float: left;
+  width: 25%;
+  height: 180px;
+}
+.logo-right {
+  float: right;
+  width: 25%;
+}
+#navigation {  
+  background-color: black;
+  padding: 5px 15px 0px 15px;
+}
+#navigation ul {
+  width: 100%;
+  display: inline;
+}
+#navigation li {
+  padding: 1% 3%;
+  font-weight: bold;
+  /*color: white;*/
+  vertical-align: middle;
+  display: inline-block;
+  list-style-type: none;
+}
+#navigation a {
+  text-decoration: none;
+  color: white;
+}
+.header {
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+}
+.content { 
+  font-style: italic;
+  font-family: Calibri, Arial;
+}
+.content iframe{
+  width:100%;
+  height: 900px;
+}
+.descriptions{
+  display: inline;
+}
+.bold {font-weight: bold;}
+.sessions {
+  vertical-align: bottom;
+  display: inline-block;
+  text-align: middle;
+  padding: 0px 15px;
+}
+.sessions h6 {
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+.resize {
+
+}
+.set-bottom { vertical-align: bottom; }
+#coaches ul {
+  display: inline;
+  list-style-type: none;
+}
