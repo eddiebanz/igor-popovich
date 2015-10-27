@@ -77,6 +77,12 @@ div { display: inline;}
   list-style-type: none;
 }
 
-.testimonial-block{
+.testimonial-group{
+  margin: 10px;
   display: inline-block;
+}
+.testimonial-block{
+  display: inline;
+  float: left;
+  margin: 5px;
 }
